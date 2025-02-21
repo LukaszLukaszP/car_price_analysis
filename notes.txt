@@ -1,0 +1,3 @@
+-Fix data cleaning in python notebook, some models and brands are misrecognized
+-Analyze data cleaning in sql, draw conclusions and improve data cleaning and preparation in python notebook
+-Improve the webscraping script, it still doesn't download all available ads, but it's not missing much anymore
